@@ -1,5 +1,6 @@
 {
   "name": "functions",
+  "proxy": "http://localhost:7071/",
   "version": "1.0.0",
   "description": "",
   "scripts": {
